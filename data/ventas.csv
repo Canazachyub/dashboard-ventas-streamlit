@@ -1,0 +1,17 @@
+﻿fecha,producto,vendedor,cantidad,precio_unitario,region
+1/15/2024,Laptop,Juan,2,1200,Norte
+1/16/2024,Mouse,Maria,5,25,Sur
+1/17/2024,Teclado,Carlos,3,80,Centro
+1/18/2024,Monitor,Ana,1,300,Norte
+1/19/2024,Laptop,Luis,1,1200,Sur
+1/20/2024,Mouse,Juan,8,25,Norte
+1/21/2024,Teclado,Maria,2,80,Centro
+1/22/2024,Monitor,Carlos,3,300,Sur
+1/23/2024,Laptop,Ana,1,1200,Centro
+1/24/2024,Mouse,Luis,6,25,Norte
+1/25/2024,Teclado,Juan,4,80,Sur
+1/26/2024,Monitor,Maria,2,300,Centro
+1/27/2024,Laptop,Carlos,2,1200,Norte
+1/28/2024,Mouse,Ana,7,25,Sur
+1/29/2024,Teclado,Luis,3,80,Centro
+1/30/2024,Monitor,Juan,1,300,Norte
